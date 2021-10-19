@@ -1,0 +1,3 @@
+#!/bin/bash
+
+valgrind --memcheck:leak-check=full --show-reachable=yes $@

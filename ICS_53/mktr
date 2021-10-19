@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tar -cvf fp_15.tar -C ~/ 53finalproj

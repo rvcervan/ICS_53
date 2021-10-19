@@ -1,0 +1,7 @@
+ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()-={}[]+;':",./<>?
+abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()-={}[]+;':",./<>?
+Abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()-={}[]+;':",./<>?
+ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE TEN 
+one two three four five six seven eight nine ten
+One Two Three Four Five Six Seven Eight Nine Ten
+

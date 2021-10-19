@@ -1,0 +1,8 @@
+Roles of client thread and job thread:
+#3 in doc
+client thread handles the error checking cases and only queue
+valid messages to be handled by the job threads.
+
+When an auction is closed:
+The watch windows of users remain open
+Tick thread enqueue an ANCLOSED job

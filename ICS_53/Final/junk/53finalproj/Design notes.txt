@@ -1,0 +1,4 @@
+Roles of client thread nad job thread:
+#3 in doc
+client thread handles the error checking cases and only queue
+valid messages to be handled by the job threads.

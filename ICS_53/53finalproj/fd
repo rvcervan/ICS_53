@@ -1,0 +1,8 @@
+199:            if ((strcmp(cur_val->username, username) == 0) && (cur_val->isOnline)) {
+204:                wr_msg(cur_val->fd, &login_req_header, NULL);
+216:            else if ((strcmp(cur_val->username, username) == 0) && !(cur_val->isOnline) && (strcmp(cur_val->password, password) != 0)) {
+221:                wr_msg(cur_val->fd, &login_req_header, NULL);
+244:                if ((strcmp(cur_val->username, username) == 0)) {
+247:                    cur_val->isOnline = 1;
+251:                    wr_msg(cur_val->fd, &login_req_header, NULL);
+282:            wr_msg(cur_val->fd, &login_req_header, NULL);

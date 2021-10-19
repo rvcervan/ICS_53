@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./bin/zbid_server 3200 rsrc/auction1.txt
